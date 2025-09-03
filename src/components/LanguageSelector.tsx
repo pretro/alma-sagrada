@@ -7,7 +7,7 @@ const LanguageSelector = () => {
 
   const languages = [
     { code: 'es' as Language, name: 'Español', flag: '🇪🇸' },
-    { code: 'en' as Language, name: 'English', flag: '🇺🇸' },
+    { code: 'en' as Language, name: 'English', flag: '🇬🇧' },
     { code: 'sv' as Language, name: 'Svenska', flag: '🇸🇪' }
   ];
 

@@ -1,3 +1,4 @@
+// src/App.tsx
 import React from 'react';
 import { LanguageProvider } from './contexts/LanguageContext';
 import Header from './components/Header';
@@ -30,11 +31,23 @@ function App() {
 
 export default App;
 
-// ErrorBoundary para mostrar errores en pantalla
-class ErrorBoundary extends React.Component {
-  state = { hasError: false, error: null };
+// ✅ TIPADO CORRECTO PARA ErrorBoundary
+interface ErrorBoundaryProps {
+  children: React.ReactNode;
+}
 
-  static getDerivedStateFromError(error: any) {
+interface ErrorBoundaryState {
+  hasError: boolean;
+  error: any;
+}
+
+class ErrorBoundary extends React.Component<ErrorBoundaryProps, ErrorBoundaryState> {
+  constructor(props: ErrorBoundaryProps) {
+    super(props);
+    this.state = { hasError: false, error: null };
+  }
+
+  static getDerivedStateFromError(error: any): ErrorBoundaryState {
     return { hasError: true, error };
   }
 

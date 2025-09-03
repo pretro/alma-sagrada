@@ -5,24 +5,14 @@ import { useLanguage } from '../contexts/LanguageContext';
 const Rituals = () => {
   const { t } = useLanguage();
 
-  // === DEBUG CRÍTICO === (Agrega esto AL PRINCIPIO)
+  // === DEBUG CRÍTICO (opcional, puedes quitarlo luego) ===
   console.log('🔍 === DEBUG RITUALS ===');
-  
   console.log('Traducción rituals.title:', t('rituals.title'));
   console.log('Traducción rituals.title.highlight:', t('rituals.title.highlight'));
   console.log('Traducción rituals.description:', t('rituals.description'));
   console.log('Traducción rituals.water.title:', t('rituals.water.title'));
   console.log('Traducción rituals.water.desc:', t('rituals.water.desc'));
   console.log('Traducción rituals.water.benefit1:', t('rituals.water.benefit1'));
-  
-  // Verifica si el JSON se cargó
-  try {
-    const esTranslations = require('../locales/es/es.json');
-    console.log('Archivo es.json cargado:', esTranslations.rituals ? '✅ SÍ' : '❌ NO');
-  } catch (error) {
-    console.log('❌ Error cargando es.json:', error);
-  }
-  // === FIN DEBUG ===
 
   const rituals = [
     {
@@ -81,7 +71,6 @@ const Rituals = () => {
 
   return (
     <section id="rituales" className="py-20 bg-gradient-to-br from-slate-900 to-purple-900 relative overflow-hidden">
-      {/* Background decorative elements */}
       <div className="absolute inset-0">
         <div className="absolute top-20 left-10 w-32 h-32 bg-purple-500/10 rounded-full blur-xl"></div>
         <div className="absolute bottom-20 right-10 w-48 h-48 bg-pink-500/10 rounded-full blur-xl"></div>
@@ -110,7 +99,6 @@ const Rituals = () => {
                     <Icon className="w-8 h-8 text-white" />
                   </div>
                   <div>
-                    <span className="text-gray-300 text-sm uppercase tracking-wider">{ritual.element}</span>
                     <h3 className="text-2xl font-bold text-white">{t(ritual.titleKey)}</h3>
                   </div>
                 </div>
