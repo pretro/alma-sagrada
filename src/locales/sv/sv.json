@@ -1,0 +1,246 @@
+{
+  "brand": {
+    "name": "Alma Sagrada",
+    "slogan": "Naturlig förbindelse för ditt holistiska välbefinnande"
+  },
+  "nav": {
+    "home": "Hem",
+    "services": "Tjänster",
+    "rituals": "Ritualer",
+    "products": "Produkter",
+    "testimonials": "Omdömen",
+    "contact": "Kontakt"
+  },
+  "hero": {
+    "title": "Förvandla Ditt Välbefinnande",
+    "highlight": "Med Natur och Energi",
+    "description": "Upptäck unika ritualer och naturliga produkter som harmoniserar kropp och själ. Börja din resa mot inre balans.",
+    "cta": {
+      "primary": "Börja Nu",
+      "secondary": "Se Ritualer"
+    },
+    "card1": {
+      "title": "Självkärlek",
+      "desc": "Ritualer som stärker din självkänsla och förbindelse med dig själv"
+    },
+    "card2": {
+      "title": "Naturlig Förbindelse",
+      "desc": "100% naturliga produkter som respekterar din kropp och miljön"
+    },
+    "card3": {
+      "title": "Positiv Energi",
+      "desc": "Tekniker som omvandlar din energi och lockar till sig positiva vibrationer"
+    }
+  },
+  "services": {
+    "title": "Våra",
+    "highlight": "Heliga Tjänster",
+    "description": "Erbjuder transformerande upplevelser som kopplar samman ditt inre väsen med universell energi. Varje tjänst är designad för din personliga tillväxt.",
+    "book": {
+      "now": "Boka Nu"
+    },
+    "card": {
+      "reading": {
+        "title": "Tarotläsning",
+        "desc": "Upptäck budskap från universum genom korten. Andlig vägledning för att fatta beslut i linje med din väg."
+      },
+      "cacao": {
+        "title": "Cacaoceremoni",
+        "desc": "Uråldrig ritual med ren kakaó för att öppna hjärtat och koppla samman med din djupaste essens."
+      },
+      "vision": {
+        "title": "Synsökande",
+        "desc": "Djup förbindelseupplevelse med naturen för att hitta ditt syfte och mental klarhet."
+      },
+      "cleansing": {
+        "title": "Energirensning",
+        "desc": "Släpp stagnanta energier och förnya dig själv med uråldriga reningsmetoder."
+      },
+      "crystals": {
+        "title": "Kristallterapi",
+        "desc": "Harmonisera dina chakran och balansera din energi med den vibrationella kraften hos naturliga kristaller."
+      },
+      "floral": {
+        "title": "Blomsterbad",
+        "desc": "Neddoppning i vatten infused med medicinska blommor för att förnya kropp och själ."
+      }
+    }
+  },
+  "rituals": {
+    "title": "Ritualer av de",
+    "highlight": "Fyra Elementen",
+    "description": "Anslut till naturens primordiala krafter genom uråldriga ritualer som harmoniserar ditt väsen med de heliga elementen.",
+    "benefits": "Fördelar",
+    "participate": "Delta i Ritual",
+    "fire": {
+      "title": "Transformerande Eldritual",
+      "desc": "Släpp det som inte längre tjänar dig och tänd lågan av din inre förvandling. Rensande ceremoni som bränner band och förnyar energier.",
+      "benefit1": "Frigörelse av känslomässiga bördor",
+      "benefit2": "Förnyelse av vital energi",
+      "benefit3": "Inre styrka och mod"
+    },
+    "water": {
+      "title": "Rensande Vattenritual",
+      "desc": "Flöda med vattnets visdom som rensar, helar och förnyar. Ritual för känslomässig rening och anslutning till ditt naturliga flöde.",
+      "benefit1": "Djup känslomässig rening",
+      "benefit2": "Anslutning till intuition",
+      "benefit3": "Flexibilitet och anpassningsförmåga"
+    },
+    "air": {
+      "title": "Klargörande Luftritual",
+      "desc": "Rena ditt sinne och låt förändringens vindar bringa klarhet och nya perspektiv till ditt liv. Aktiv meditation med luftelementet.",
+      "benefit1": "Mental klarhet och fokus",
+      "benefit2": "Frigörelse av begränsande tankar",
+      "benefit3": "Flytande och assertiv kommunikation"
+    },
+    "earth": {
+      "title": "Förfäders Jordritual",
+      "desc": "Anslut till Moder Jords visdom och hitta stabilitet på din väg. Jordningsceremoni och anslutning till dina rötter.",
+      "benefit1": "Känslomässig stabilitet och säkerhet",
+      "benefit2": "Anslutning till naturen",
+      "benefit3": "Överflöd och välstånd"
+    }
+  },
+  "products": {
+    "title": "Våra",
+    "highlight": "Heliga Produkter",
+    "description": "Upptäck noggrant utvalda verktyg och element som följer dig på din spirituella resa och självupptäckt.",
+    "add": {
+      "cart": "Lägg i Kundvagn"
+    },
+    "filter": {
+      "all": "Alla",
+      "crystals": "Kristaller",
+      "herbs": "Örter",
+      "elixirs": "Elixir",
+      "amulets": "Amuletter"
+    },
+    "items": {
+      "rose-quartz": {
+        "name": "Rosenkvarts",
+        "description": "Sten av ovillkorlig kärlek som öppnar hjärtat och främjar medkänsla och inre frid."
+      },
+      "amethyst": {
+        "name": "Ametist",
+        "description": "Kristall av skydd och mental klarhet som avvärjer negativa energier och främjar intuition."
+      },
+      "white-sage": {
+        "name": "Vit Salvia",
+        "description": "Heligt ört för energirensning och utrymmesrening. Fångar stagnanta energier."
+      },
+      "rose-water": {
+        "name": "Rosenvatten",
+        "description": "Floral elixir för att öppna hjärtat och ansluta till kärlekens energi och inre skönhet."
+      },
+      "obsidian-pendant": {
+        "name": "Obsidianhänge",
+        "description": "Skyddsamulett som fungerar som en sköld mot negativa energier och främjar jordning."
+      },
+      "new-moon-essence": {
+        "name": "Nymåneessens",
+        "description": "Månens elixir för nya början och intentionsmanifestation. Idealisk för inledande ritualer."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Röster av",
+    "highlight": "Förvandling",
+    "description": "Verkliga berättelser från människor som har upplevt djupa förändringar genom våra ritualer och heliga tjänster.",
+    "share": "Dela Din Upplevelse",
+    "maria": {
+      "name": "María Elena Ruiz",
+      "location": "Mexico City",
+      "text": "Energirensningssessionen förändrade mitt liv helt. Jag kände som om en enorm tyngd hade lyfts från mig. Lärarens visdom och värme är extraordinära.",
+      "service": "Energirensning"
+    },
+    "carlos": {
+      "name": "Carlos Mendoza",
+      "location": "Guadalajara",
+      "text": "Synsökanderitualen hjälpte mig att hitta mitt sanna syfte. Det var en transformerande upplevelse som kopplade mig djupt med min essens och naturen.",
+      "service": "Synsökande"
+    },
+    "ana": {
+      "name": "Ana Sofía López",
+      "location": "Monterrey",
+      "text": "Cacaoceremonin var magisk. Jag kunde frigöra känslor jag hade burit på i år och fann en frid jag aldrig känt förut. Starkt rekommenderad.",
+      "service": "Cacaoceremoni"
+    },
+    "roberto": {
+      "name": "Roberto Silva",
+      "location": "Puebla",
+      "text": "De heliga kortläsningarna är otroligt precisa. De gav mig klarhet över situationer som hade förvirrat mig och hjälpte mig fatta bättre beslut.",
+      "service": "Kortläsning"
+    },
+    "luisa": {
+      "name": "Luisa Fernández",
+      "location": "Mérida",
+      "text": "Kristallterapin var exakt vad jag behövde. Jag lämnade sessionen med förnyad energi och en balans jag aldrig upplevt förut.",
+      "service": "Kristallterapi"
+    },
+    "diego": {
+      "name": "Diego Morales",
+      "location": "Cancún",
+      "text": "Produkterna jag köpte, speciellt ametisten och vit salvia, har förvandlat energin i mitt hem. Det känns mer harmoniskt och skyddat.",
+      "service": "Heliga Produkter"
+    }
+  },
+  "contact": {
+    "title": "Kontakta",
+    "highlight": "Oss Idag",
+    "description": "Vi finns här för att hjälpa dig att komma i kontakt med ditt inre. Kontakta oss för att boka en session, ställa en fråga eller dela din upplevelse.",
+    "location": "Plats",
+    "phone": "Telefon",
+    "email": "E-post",
+    "hours": "Öppettider",
+    "schedule": "Mån–Fre: 09.00–19.00 | Lör: 10.00–17.00",
+    "info": {
+      "title": "Kontaktinformation"
+    },
+    "booking": {
+      "title": "Boka en Session"
+    },
+    "form": {
+      "title": "Kontaktformulär",
+      "name": {
+        "label": "Fullständigt Namn",
+        "placeholder": "Ditt fullständiga namn"
+      },
+      "phone": {
+        "label": "Telefonnummer",
+        "placeholder": "Ditt telefonnummer"
+      },
+      "email": {
+        "label": "E-postadress",
+        "placeholder": "din@email.com"
+      },
+      "service": {
+        "label": "Välj en Tjänst",
+        "placeholder": "Välj en tjänst",
+        "options": {
+          "reading": "Helig Kortläsning",
+          "cacao": "Kakaoceremoni",
+          "vision": "Visionssökning",
+          "cleansing": "Energirening",
+          "crystals": "Kristallterapi",
+          "floral": "Blomstermedicin"
+        }
+      },
+      "message": {
+        "label": "Meddelande",
+        "placeholder": "Berätta om din situation och hur vi kan hjälpa dig..."
+      },
+      "submit": "Skicka meddelande"
+    }
+  },
+  "footer": {
+    "description": "Upptäck kontakten med ditt inre genom våra ritualer.",
+    "services": "Tjänster",
+    "links": "Länkar",
+    "copyright": "© 2025 Alma Sagrada. Alla rättigheter förbehållna.",
+    "made": {
+      "with": {
+        "love": "Skapad med kärlek och syfte."
+      }
+    }
+  }
+}

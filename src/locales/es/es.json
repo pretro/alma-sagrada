@@ -1,0 +1,246 @@
+{
+  "brand": {
+    "name": "Alma Sagrada",
+    "slogan": "Conexión natural para tu bienestar integral"
+  },
+  "nav": {
+    "home": "Inicio",
+    "services": "Servicios",
+    "rituals": "Rituales",
+    "products": "Productos",
+    "testimonials": "Testimonios",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "title": "Transforma Tu Bienestar",
+    "highlight": "Con Naturaleza y Energía",
+    "description": "Descubre rituales únicos y productos naturales que armonizan tu cuerpo y espíritu. Comienza tu camino hacia el equilibrio interior.",
+    "cta": {
+      "primary": "Comenzar Ahora",
+      "secondary": "Ver Rituales"
+    },
+    "card1": {
+      "title": "Amor Propio",
+      "desc": "Rituales que fortalecen tu autoestima y conexión contigo mismo"
+    },
+    "card2": {
+      "title": "Conexión Natural", 
+      "desc": "Productos 100% naturales que respetan tu cuerpo y el medio ambiente"
+    },
+    "card3": {
+      "title": "Energía Positiva",
+      "desc": "Técnicas que transforman tu energía y atraen vibraciones positivas"
+    }
+  },
+  "services": {
+    "title": "Nuestros",
+    "highlight": "Servicios Sagrados",
+    "description": "Ofrecemos experiencias transformadoras que conectan tu ser interior con la energía universal. Cada servicio está diseñado para tu crecimiento personal.",
+    "book": {
+      "now": "Reservar Ahora"
+    },
+    "card": {
+      "reading": {
+        "title": "Lectura de Tarot",
+        "desc": "Descubre mensajes del universo a través de las cartas. Guía espiritual para tomar decisiones alineadas con tu camino."
+      },
+      "cacao": {
+        "title": "Ceremonia de Cacao",
+        "desc": "Ritual ancestral con cacao puro para abrir el corazón y conectar con tu esencia más profunda."
+      },
+      "vision": {
+        "title": "Búsqueda de Visión",
+        "desc": "Experiencia profunda de conexión con la naturaleza para encontrar tu propósito y claridad mental."
+      },
+      "cleansing": {
+        "title": "Limpieza Energética",
+        "desc": "Libera energías estancadas y renueva con técnicas de purificación ancestrales."
+      },
+      "crystals": {
+        "title": "Terapia con Cristales",
+        "desc": "Armoniza tus chakras y equilibra tu energía con el poder vibratorio de cristales naturales."
+      },
+      "floral": {
+        "title": "Baño Floral",
+        "desc": "Inmersión en aguas infusionadas con flores medicinales para renovar cuerpo y espíritu."
+      }
+    }
+  },
+  "rituals": {
+    "title": "Rituales de los",
+    "highlight": "Cuatro Elementos",
+    "description": "Conecta con las fuerzas primordiales de la naturaleza a través de rituales ancestrales que armonizan tu ser con los elementos sagrados.",
+    "benefits": "Beneficios",
+    "participate": "Participar en Ritual",
+    "fire": {
+      "title": "Ritual del Fuego Transformador",
+      "desc": "Libera lo que ya no te sirve y enciende la llama de tu transformación interior. Ceremonia purificadora que quema ataduras y renueva energías.",
+      "benefit1": "Liberación de cargas emocionales",
+      "benefit2": "Renovación de energía vital",
+      "benefit3": "Fortaleza y coraje interior"
+    },
+    "water": {
+      "title": "Ritual del Agua Purificadora", 
+      "desc": "Fluye con la sabiduría del agua que limpia, sana y renueva. Ritual de purificación emocional y conexión con tu fluir natural.",
+      "benefit1": "Purificación emocional profunda",
+      "benefit2": "Conexión con la intuición",
+      "benefit3": "Flexibilidad y adaptabilidad"
+    },
+    "air": {
+      "title": "Ritual del Aire Clarificador",
+      "desc": "Despeja tu mente y permite que los vientos de cambio traigan claridad y nuevas perspectivas a tu vida. Meditación activa con el elemento aire.",
+      "benefit1": "Claridad mental y enfoque",
+      "benefit2": "Liberación de pensamientos limitantes",
+      "benefit3": "Comunicación fluida y asertiva"
+    },
+    "earth": {
+      "title": "Ritual de la Tierra Ancestral",
+      "desc": "Conecta con la sabiduría de la Madre Tierra y encuentra estabilidad en tu camino. Ceremonia de grounding y conexión con tus raíces.",
+      "benefit1": "Estabilidad y seguridad emocional",
+      "benefit2": "Conexión con la naturaleza",
+      "benefit3": "Abundancia y prosperidad"
+    }
+  },
+  "products": {
+    "title": "Nuestros",
+    "highlight": "Productos Sagrados",
+    "description": "Descubre herramientas y elementos cuidadosamente seleccionados para acompañarte en tu journey espiritual y de autodescubrimiento.",
+    "add": {
+      "cart": "Añadir al Carrito"
+    },
+    "filter": {
+      "all": "Todos",
+      "crystals": "Cristales",
+      "herbs": "Hierbas",
+      "elixirs": "Elixires",
+      "amulets": "Amuletos"
+    },
+    "items": {
+      "rose-quartz": {
+        "name": "Cuarzo Rosa",
+        "description": "Piedra del amor incondicional que abre el corazón y promueve la compasión y la paz interior."
+      },
+      "amethyst": {
+        "name": "Amatista",
+        "description": "Cristal de la protección y la claridad mental que aleja energías negativas y promueve la intuición."
+      },
+      "white-sage": {
+        "name": "Salvia Blanca",
+        "description": "Hierba sagrada para limpieza energética y purificación de espacios. Atrapa energías estancadas."
+      },
+      "rose-water": {
+        "name": "Agua de Rosas",
+        "description": "Elixir floral para abrir el corazón y conectar con la energía del amor y la belleza interior."
+      },
+      "obsidian-pendant": {
+        "name": "Colgante de Obsidiana",
+        "description": "Amuleto de protección que actúa como escudo contra energías negativas y promueve el grounding."
+      },
+      "new-moon-essence": {
+        "name": "Esencia de Luna Nueva",
+        "description": "Elixir lunar para nuevos comienzos y manifestación de intenciones. Ideal para rituales de inicio."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Voces de",
+    "highlight": "Transformación",
+    "description": "Historias reales de personas que han experimentado cambios profundos a través de nuestros rituales y servicios sagrados.",
+    "share": "Compartir Tu Experiencia",
+    "maria": {
+      "name": "María Elena Ruiz",
+      "location": "Ciudad de México",
+      "text": "La sesión de limpia energética cambió mi vida completamente. Sentí como si me hubieran quitado un peso enorme de encima. La sabiduría y calidez de la maestra es extraordinaria.",
+      "service": "Limpia Energética"
+    },
+    "carlos": {
+      "name": "Carlos Mendoza",
+      "location": "Guadalajara",
+      "text": "El ritual de búsqueda de visión me ayudó a encontrar mi verdadero propósito. Fue una experiencia transformadora que me conectó profundamente con mi esencia y la naturaleza.",
+      "service": "Búsqueda de Visión"
+    },
+    "ana": {
+      "name": "Ana Sofía López",
+      "location": "Monterrey",
+      "text": "La ceremonia del cacao fue mágica. Pude liberar emociones que llevaba años cargando y encontré una paz que no había sentido jamás. Totalmente recomendable.",
+      "service": "Ceremonia de Cacao"
+    },
+    "roberto": {
+      "name": "Roberto Silva",
+      "location": "Puebla",
+      "text": "Las lecturas de cartas sagradas son increíblemente precisas. Me dieron claridad sobre situaciones que me tenían confundido y me ayudaron a tomar mejores decisiones.",
+      "service": "Lectura de Cartas"
+    },
+    "luisa": {
+      "name": "Luisa Fernández",
+      "location": "Mérida",
+      "text": "La terapia con cristales fue exactamente lo que necesitaba. Salí de la sesión sintiendo una energía renovada y un equilibrio que no había experimentado antes.",
+      "service": "Terapia con Cristales"
+    },
+    "diego": {
+      "name": "Diego Morales",
+      "location": "Cancún",
+      "text": "Los productos que compré, especialmente la amatista y la salvia blanca, han transformado la energía de mi hogar. Se siente más armonioso y protegido.",
+      "service": "Productos Sagrados"
+    }
+  },
+"contact": {
+  "title": "Contáctanos",
+  "highlight": "Con Alma y Propósito",
+  "description": "Estamos aquí para acompañarte en tu camino espiritual. Escríbenos, reserva una sesión o simplemente comparte tu sentir.",
+  "info": {
+    "title": "Información de Contacto"
+  },
+  "location": "Ubicación",
+  "phone": "Teléfono",
+  "email": "Correo Electrónico",
+  "hours": "Horario",
+  "schedule": "Lun–Vie: 9am–7pm | Sáb: 10am–5pm",
+  "booking": {
+    "title": "Reserva Tu Sesión"
+  },
+  "form": {
+    "title": "Formulario de Contacto",
+    "name": {
+      "label": "Nombre Completo",
+      "placeholder": "Tu nombre completo"
+    },
+    "phone": {
+      "label": "Número de Teléfono",
+      "placeholder": "Tu número de teléfono"
+    },
+    "email": {
+      "label": "Correo Electrónico",
+      "placeholder": "tu@email.com"
+    },
+    "service": {
+      "label": "Servicio Deseado",
+      "placeholder": "Selecciona un servicio",
+      "options": {
+        "reading": "Lectura de Cartas Sagradas",
+        "cacao": "Ceremonia de Cacao",
+        "vision": "Búsqueda de Visión",
+        "cleansing": "Limpieza Energética",
+        "crystals": "Terapia con Cristales",
+        "floral": "Medicina Floral"
+      }
+    },
+    "message": {
+      "label": "Mensaje o Consulta",
+      "placeholder": "Cuéntanos sobre tu situación y cómo podemos ayudarte..."
+    },
+    "submit": "Enviar Mensaje"
+  }
+},
+"footer": {
+  "description": "Descubre la conexión con tu ser interior a través de nuestros rituales.",
+  "services": "Servicios",
+  "links": "Enlaces",
+  "copyright": "© 2025 Alma Sagrada. Todos los derechos reservados.",
+  "made": {
+    "with": {
+      "love": "Hecho con amor y propósito."
+    }
+  }
+}
+}

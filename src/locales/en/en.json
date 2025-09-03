@@ -1,0 +1,249 @@
+{
+  "brand": {
+    "name": "Alma Sagrada",
+    "slogan": "Natural connection for your holistic wellbeing"
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "rituals": "Rituals",
+    "products": "Products",
+    "testimonials": "Testimonials",
+    "contact": "Contact"
+  },
+  "hero": {
+    "title": "Transform Your Wellbeing",
+    "highlight": "With Nature and Energy",
+    "description": "Discover unique rituals and natural products that harmonize your body and spirit. Begin your journey towards inner balance.",
+    "cta": {
+      "primary": "Start Now",
+      "secondary": "View Rituals"
+    },
+    "card1": {
+      "title": "Self Love",
+      "desc": "Rituals that strengthen your self-esteem and connection with yourself"
+    },
+    "card2": {
+      "title": "Natural Connection",
+      "desc": "100% natural products that respect your body and the environment"
+    },
+    "card3": {
+      "title": "Positive Energy",
+      "desc": "Techniques that transform your energy and attract positive vibrations"
+    }
+  },
+  "services": {
+    "title": "Our",
+    "highlight": "Sacred Services",
+    "description": "We offer transformative experiences that connect your inner being with universal energy. Each service is designed for your personal growth.",
+    "book": {
+      "now": "Book Now"
+    },
+    "card": {
+      "reading": {
+        "title": "Tarot Reading",
+        "desc": "Discover messages from the universe through the cards. Spiritual guidance to make decisions aligned with your path."
+      },
+      "cacao": {
+        "title": "Cacao Ceremony",
+        "desc": "Ancient ritual with pure cacao to open the heart and connect with your deepest essence."
+      },
+      "vision": {
+        "title": "Vision Quest",
+        "desc": "Deep connection experience with nature to find your purpose and mental clarity."
+      },
+      "cleansing": {
+        "title": "Energy Cleansing",
+        "desc": "Release stagnant energies and renew yourself with ancient purification techniques."
+      },
+      "crystals": {
+        "title": "Crystal Therapy",
+        "desc": "Harmonize your chakras and balance your energy with the vibrational power of natural crystals."
+      },
+      "floral": {
+        "title": "Floral Bath",
+        "desc": "Immersion in waters infused with medicinal flowers to renew body and spirit."
+      }
+    }
+  },
+  "rituals": {
+    "title": "Rituals of the",
+    "highlight": "Four Elements",
+    "description": "Connect with the primordial forces of nature through ancient rituals that harmonize your being with the sacred elements.",
+    "benefits": "Benefits",
+    "participate": "Participate in Ritual",
+    "fire": {
+      "label": "FIRE",
+      "title": "Transformative Fire Ritual",
+      "desc": "Release what no longer serves you and ignite the flame of your inner transformation. Purifying ceremony that burns attachments and renews energies.",
+      "benefit1": "Release of emotional burdens",
+      "benefit2": "Renewal of vital energy",
+      "benefit3": "Inner strength and courage"
+    },
+    "water": {
+      "title": "Purifying Water Ritual",
+      "desc": "Flow with the wisdom of water that cleanses, heals and renews. Ritual of emotional purification and connection with your natural flow.",
+      "benefit1": "Deep emotional purification",
+      "benefit2": "Connection with intuition",
+      "benefit3": "Flexibility and adaptability"
+    },
+    "air": {
+      "title": "Clarifying Air Ritual",
+      "desc": "Clear your mind and allow the winds of change to bring clarity and new perspectives to your life. Active meditation with the air element.",
+      "benefit1": "Mental clarity and focus",
+      "benefit2": "Release of limiting thoughts",
+      "benefit3": "Fluid and assertive communication"
+    },
+    "earth": {
+      "title": "Ancestral Earth Ritual",
+      "desc": "Connect with the wisdom of Mother Earth and find stability on your path. Grounding ceremony and connection with your roots.",
+      "benefit1": "Emotional stability and security",
+      "benefit2": "Connection with nature",
+      "benefit3": "Abundance and prosperity"
+    }
+  },
+  "products": {
+    "title": "Our",
+    "highlight": "Sacred Products",
+    "description": "Discover carefully selected tools and elements to accompany you on your spiritual journey and self-discovery.",
+    "add": {
+      "cart": "Add to Cart"
+    },
+    "filter": {
+      "all": "All",
+      "crystals": "Crystals",
+      "herbs": "Herbs",
+      "elixirs": "Elixirs",
+      "amulets": "Amulets"
+    },
+    "items": {
+      "rose-quartz": {
+        "name": "Rose Quartz",
+        "description": "Stone of unconditional love that opens the heart and promotes compassion and inner peace."
+      },
+      "amethyst": {
+        "name": "Amethyst",
+        "description": "Crystal of protection and mental clarity that wards off negative energies and promotes intuition."
+      },
+      "white-sage": {
+        "name": "White Sage",
+        "description": "Sacred herb for energy cleansing and space purification. Traps stagnant energies."
+      },
+      "rose-water": {
+        "name": "Rose Water",
+        "description": "Floral elixir to open the heart and connect with the energy of love and inner beauty."
+      },
+      "obsidian-pendant": {
+        "name": "Obsidian Pendant",
+        "description": "Protection amulet that acts as a shield against negative energies and promotes grounding."
+      },
+      "new-moon-essence": {
+        "name": "New Moon Essence",
+        "description": "Lunar elixir for new beginnings and intention manifestation. Ideal for initiation rituals."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Voices of",
+    "highlight": "Transformation",
+    "description": "Real stories from people who have experienced profound changes through our rituals and sacred services.",
+    "share": "Share Your Experience",
+    "maria": {
+      "name": "Maria Elena Ruiz",
+      "location": "Mexico City",
+      "text": "The energy cleansing session completely changed my life. I felt as if a huge weight had been lifted off me. The teacher's wisdom and warmth are extraordinary.",
+      "service": "Energy Cleansing"
+    },
+    "carlos": {
+      "name": "Carlos Mendoza",
+      "location": "Guadalajara",
+      "text": "The vision quest ritual helped me find my true purpose. It was a transformative experience that connected me deeply with my essence and nature.",
+      "service": "Vision Quest"
+    },
+    "ana": {
+      "name": "Ana Sofia Lopez",
+      "location": "Monterrey",
+      "text": "The cacao ceremony was magical. I was able to release emotions I had been carrying for years and found a peace I had never felt before. Highly recommended.",
+      "service": "Cacao Ceremony"
+    },
+    "roberto": {
+      "name": "Roberto Silva",
+      "location": "Puebla",
+      "text": "The sacred card readings are incredibly accurate. They gave me clarity about situations that had me confused and helped me make better decisions.",
+      "service": "Card Reading"
+    },
+    "luisa": {
+      "name": "Luisa Fernandez",
+      "location": "Merida",
+      "text": "The crystal therapy was exactly what I needed. I left the session feeling renewed energy and a balance I had never experienced before.",
+      "service": "Crystal Therapy"
+    },
+    "diego": {
+      "name": "Diego Morales",
+      "location": "Cancun",
+      "text": "The products I bought, especially the amethyst and white sage, have transformed the energy of my home. It feels more harmonious and protected.",
+      "service": "Sacred Products"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "highlight": "Us Today",
+    "description": "We are here to help you connect with your inner self. Contact us to book a session, ask a question, or share your experience.",
+    "location": "Location",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Opening Hours",
+    "schedule": "Mon–Fri: 9am–7pm | Sat: 10am–5pm",
+    "info": {
+      "title": "Contact Information"
+    },
+    "booking": {
+      "title": "Book a Session"
+    },
+    "form": {
+      "title": "Contact Form",
+      "name": {
+        "label": "Full Name",
+        "placeholder": "Your full name"
+      },
+      "phone": {
+        "label": "Phone Number",
+        "placeholder": "Your phone number"
+      },
+      "email": {
+        "label": "Email Address",
+        "placeholder": "your@email.com"
+      },
+      "service": {
+        "label": "Select a Service",
+        "placeholder": "Select a service",
+        "options": {
+          "reading": "Sacred Card Reading",
+          "cacao": "Cacao Ceremony",
+          "vision": "Vision Quest",
+          "cleansing": "Energy Cleansing",
+          "crystals": "Crystal Therapy",
+          "floral": "Floral Medicine"
+        }
+        },
+      "message": {
+        "label": "Message",
+        "placeholder": "Tell us about your situation and how we can help..."
+      },
+      "submit": "Send Message"
+    }
+  },
+"footer": {
+  "description": "Discover the connection with your inner self through our rituals.",
+  "services": "Services",
+  "links": "Links",
+  "copyright": "© 2025 Alma Sagrada. All rights reserved.",
+  "made": {
+    "with": {
+      "love": "Made with love and purpose."
+    }
+  }
+}
+}
+
+
